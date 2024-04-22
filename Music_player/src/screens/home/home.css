@@ -1,0 +1,16 @@
+.main-body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #3e334d;
+    border-radius: 30px;
+    display: flex;
+}
+.login-page {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff; /* Example background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
