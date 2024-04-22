@@ -14,16 +14,16 @@ Steller Society
 Steller Society is a space-themed music player website with an integrated chat feature and custom themes. It provides users with a unique and immersive experience while enjoying their favorite music tracks.
 
 ## Team Members
-- [P.Gayathri](#)
+- P.Gayathri
   - [GitHub](https://github.com/GayathriPCh)
   - [LinkedIn](https://www.linkedin.com/in/gayathri-pch/)
-- [T.Manas](#)
+- T.Manas
   - [GitHub](https://github.com/tmanas06)
   - [LinkedIn](https://www.linkedin.com/in/t-manas-chakravarty-91958224b/)
-- [B.Sujith](#)
+- B.Sujith
   - [GitHub](https://github.com/SujithBojjawar)
   - [LinkedIn](https://www.linkedin.com/in/sujith-bojjawar-26b820256/)
-- [S.Snehitha](#)
+- S.Snehitha
   - [GitHub](https://github.com/SIRIPURAPUSNEHITHA)
   - [LinkedIn](https://www.linkedin.com/in/s-snehitha-6a9a42288/)
 
