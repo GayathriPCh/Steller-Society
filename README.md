@@ -27,7 +27,6 @@ Steller Society is a space-themed music player website with an integrated chat f
   - [GitHub](https://github.com/SIRIPURAPUSNEHITHA)
   - [LinkedIn](https://www.linkedin.com/in/s-snehitha-6a9a42288/)
 
-  https://github.com/SIRIPURAPUSNEHITHA
 
 ## Steps to Run
 1. Clone the repository from GitHub:
