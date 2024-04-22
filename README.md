@@ -17,9 +17,17 @@ Steller Society is a space-themed music player website with an integrated chat f
 - [P.Gayathri](#)
   - [GitHub](https://github.com/GayathriPCh)
   - [LinkedIn](https://www.linkedin.com/in/gayathri-pch/)
-- [T.Manas](#) 
-- [B.Sujith](#) 
-- [S.Snehitha](#) 
+- [T.Manas](#)
+  - [GitHub](https://github.com/tmanas06)
+  - [LinkedIn](https://www.linkedin.com/in/t-manas-chakravarty-91958224b/)
+- [B.Sujith](#)
+  - [GitHub](https://github.com/SujithBojjawar)
+  - [LinkedIn](https://www.linkedin.com/in/sujith-bojjawar-26b820256/)
+- [S.Snehitha](#)
+  - [GitHub](https://github.com/SIRIPURAPUSNEHITHA)
+  - [LinkedIn](https://www.linkedin.com/in/s-snehitha-6a9a42288/)
+
+  https://github.com/SIRIPURAPUSNEHITHA
 
 ## Steps to Run
 1. Clone the repository from GitHub:
