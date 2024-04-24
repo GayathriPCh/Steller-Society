@@ -56,4 +56,5 @@ Steller Society is a space-themed music player website with an integrated chat f
    npm start
     ```
 5. Open your web browser and go to `http://localhost:3000` to access Steller Society.
+6. run both client and server at the same time with npm run
 
