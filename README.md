@@ -9,6 +9,7 @@ Music player with MERN stack
 - [Description](#description)
 - [Team Members](#team-members)
 - [Steps to Run](#steps-to-run)
+- [Future Development](#future-development)
 
 ## Project Title
 Steller Society
@@ -61,3 +62,12 @@ Steller Society is a space-themed music player website with an integrated chat f
 5. Open your web browser and go to `http://localhost:3000` to access Steller Society.
 6. Be sure to run both client and server at the same time with npm start
 
+## Future Development
+
+This section details the features we plan to develop in the future to make Steller Society an even more engaging platform for music and space enthusiasts:
+
+- **Dynamic Customizable Themes:** Allow users to personalize their Steller Society experience with a wider range of dynamic themes.
+- **Listening Parties:** Integrate a feature for hosting and joining listening parties, fostering a more interactive music experience.
+- **App Deployment:** Develop a mobile app to extend Steller Society's reach and accessibility to users on the go.
+
+These are just a few of the exciting features we have planned for Steller Society. We're always open to feedback and suggestions from the community, so feel free to reach out and share your ideas!
