@@ -1,6 +1,9 @@
 # Steller-Society
 Music player with MERN stack
 
+![STELLAR SOCIETY (2)](https://github.com/GayathriPCh/Steller-Society/assets/132088009/e3ef4a7c-0d3f-417d-9d91-ca128139cfbd)
+
+
 ## Table of Contents
 - [Project Title](#project-title)
 - [Description](#description)
