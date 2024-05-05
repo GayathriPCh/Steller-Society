@@ -33,16 +33,15 @@ Steller Society is a space-themed music player website with an integrated chat f
 
 
 ## Steps to Run
+Music_player is the frontend. Server is the backend.
 1. Clone the repository from GitHub:
     ```bash
     git clone https://github.com/your-username/steller-society.git
     ```
-2. Navigate to the project directory:
+    
+2. Install dependencies:
     ```bash
-    cd steller-society
-    ```
-3. Install dependencies:
-    ```bash
+    cd Music_player
     npm install  
     npm install express axios cors
     npm install --save-dev nodemon
@@ -51,7 +50,7 @@ Steller Society is a space-themed music player website with an integrated chat f
     npm install react-chat-engine --save --force
     npm start 
     ```
-4. Meanwhile in a new terminal, start the server:
+3. Meanwhile in a new terminal, start the server:
     ```bash
    cd Server 
    npm init
@@ -59,8 +58,8 @@ Steller Society is a space-themed music player website with an integrated chat f
    npm install --save-dev nodemon
    npm start
     ```
-5. Open your web browser and go to `http://localhost:3000` to access Steller Society.
-6. Be sure to run both client and server at the same time with npm start
+4. Open your web browser and go to `http://localhost:3000` to access Steller Society.
+5. Be sure to run both client and server at the same time with npm start
 
 ## Future Development
 
